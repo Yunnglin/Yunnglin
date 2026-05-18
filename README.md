@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
   <tbody>
     <tr>
       <td width="26%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Yunnglin&hide_rank=true&show_icons=true&theme=dracula">
+        <img src="./profile/stats.svg">
       <td width="74%">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yunnglin/Yunnglin/output/github-contribution-grid-snake-dark.svg">
