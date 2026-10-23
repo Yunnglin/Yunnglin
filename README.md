@@ -1,25 +1,13 @@
-- 👋 Hi, I’m @Yunnglin
-- 👀 I’m interested in NLP & LLM
-- 🌱 I’m currently learning RAG
-- 📫 How to reach me maoyunlin.myl@alibaba-inc.com
+# Hi, I'm Yunlin Mao
 
-<!---
-Yunnglin/Yunnglin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I work on open-source AI projects at ModelScope, Tongyi Lab, Alibaba Group.
 
-<table>
-  <tbody>
-    <tr>
-      <td width="26%">
-        <img src="./profile/stats.svg">
-      <td width="74%">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yunnglin/Yunnglin/output/github-contribution-grid-snake-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yunnglin/Yunnglin/output/github-contribution-grid-snake.svg">
-          <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yunnglin/Yunnglin/output/github-contribution-grid-snake.svg">
-        </picture>
-      </td>
-    </tr>
-  </tbody>
-</table>
+I contribute to [EvalScope](https://github.com/modelscope/evalscope), [Twinkle](https://github.com/modelscope/twinkle), and [ms-swift](https://github.com/modelscope/ms-swift), with a focus on LLM evaluation, fine-tuning, and post-training infrastructure.
+
+[Personal Website](https://yunnglin.github.io/) · [Publications](https://yunnglin.github.io/#publications) · [Email](mailto:maoyunlin.myl@alibaba-inc.com)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yunnglin/Yunnglin/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yunnglin/Yunnglin/output/github-contribution-grid-snake.svg">
+  <img alt="Animated snake on my GitHub contribution graph" src="https://raw.githubusercontent.com/Yunnglin/Yunnglin/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
